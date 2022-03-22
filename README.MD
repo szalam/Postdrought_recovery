@@ -9,7 +9,7 @@ THE Codes IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 * Reference: https://doi.org/10.1029/2021WR030352
 * Additional data: https://doi.org/10.6084/m9.figshare.14544381.v1
 
-<img src="05_figure/map.png" alt="drawing" width="500"> <br>
+<img src="05_figure/map.png" alt="drawing" width="650"> <br>
 Central Valley of California
 
 ## More information about data used or queried in this repository can be found in the manuscript text.
